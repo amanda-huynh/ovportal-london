@@ -1,0 +1,63 @@
+html {
+  height: 100%;
+}
+body {
+  height: 100%;
+}
+
+#root {
+  height: auto;
+  width: auto;
+  max-height: 100%;
+  overflow: auto;
+}
+
+.searchComponent {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 100px;
+  border-radius: 3px;
+}
+
+.Projects-buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  right: 0;
+  left: 0;
+  top: 0;
+}
+
+.Projects-all {
+  margin-left: 10px;
+  padding: 10px 20px;
+  border-radius: 12px;
+  border: none;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+  outline: none;
+  font-size: 1.5rem;
+  background-color: #fff;
+  color: #555;
+  cursor: pointer;
+}
+
+.Projects-new {
+  margin-left: 10px;
+  padding: 10px 20px;
+  border-radius: 12px;
+  border: none;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+  outline: none;
+  font-size: 1.5rem;
+  background-color: #fff;
+  color: #555;
+  cursor: pointer;
+}

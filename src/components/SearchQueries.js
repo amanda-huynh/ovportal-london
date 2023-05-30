@@ -1,0 +1,42 @@
+export const SEARCH_QUERIES = [
+  {
+    project_id: "project-1",
+    project_name: "project-name",
+    partner_name: "Amanda",
+    project_total_walks: "3",
+    project_total_images: "2",
+    project_data_processed_count: "1/5",
+  },
+  {
+    project_id: "project-2",
+    project_name: "project-name2",
+    partner_name: "Wilmer",
+    project_total_walks: "3",
+    project_total_images: "3",
+    project_data_processed_count: "2/3",
+  },
+  {
+    project_id: "project-3",
+    project_name: "project-name3",
+    partner_name: "Ann",
+    project_total_walks: "4",
+    project_total_images: "6",
+    project_data_processed_count: "2/3",
+  },
+  {
+    project_id: "project-4",
+    project_name: "project-name4",
+    partner_name: "Lauren",
+    project_total_walks: "2",
+    project_total_images: "10",
+    project_data_processed_count: "1/3",
+  },
+  {
+    project_id: "project-5",
+    project_name: "project-name5",
+    partner_name: "Lauren",
+    project_total_walks: "0",
+    project_total_images: "0",
+    project_data_processed_count: "10/12",
+  },
+];

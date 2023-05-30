@@ -1,0 +1,10 @@
+.commentSectionContainer {
+  width: 40vh;
+  overflow-y: auto;
+  display: "flex";
+  justify-content: "center";
+  z-index: 1;
+  font-style: "30px blue";
+  border: 3px solid #000000;
+  position: "absolute";
+}
